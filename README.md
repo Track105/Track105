@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Track105
+- 👋 Hi, I’m Andrei-Edward POPA.
 - 👀 I’m interested in embedded linux, signal processing and C++ programming.
 - 🌱 I’m currently learning embedded linux in depth and C++ design patterns.
 - 💞️ I’m looking to collaborate on embedded linux projects, signal processing projects ans C++ 11, 14, 17, 20 projects.
